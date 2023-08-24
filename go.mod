@@ -1,4 +1,4 @@
-module github.com/mholt/caddy-webdav
+module github.com/andybroger/caddy-webdav
 
 go 1.16
 
